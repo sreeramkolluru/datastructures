@@ -1,2 +1,2 @@
 # datastructures
-practising datastructures
+This is for practising datastructures
